@@ -1,5 +1,7 @@
-console.log ("Welcome to this git course");
-for (i=0; i<5; i++)
-{console.log(
+console.log ("Welcome to this git playlist");
 
-"Sam")}
+for (var i=0; i<5;i++)
+{
+    console.log("Samm_talkz")
+
+}
